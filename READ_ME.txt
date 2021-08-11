@@ -33,5 +33,6 @@ Spellbook Notes:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contributors
 
+Landon Leigh [@landonleigh](https://github.com/landonleigh)
 Jake Cheek - [@jgchk](https://github.com/jgchk)
 Dylan Steimel - [@steimel60](https://github.com/steimel60)
