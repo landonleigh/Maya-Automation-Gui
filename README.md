@@ -13,3 +13,6 @@ Virtual Crash Tools page allows  you to take in a virtual crash animation report
 Vehicle Rigging page allows you to pair the created locator to a vehicle rig that you load in. You can rotate the pair, change the heights, pair the brake lights, constrain the wheels to a ground mesh, use blend shapes for damaged assets, and bake out the animation to be exported to Unreal Engine.
 
 Character Rigging Page allow you to take the character movement report from virtual crash and create loactors for each body part. The locators can then be paired with a character rig and then the animation will be put into Maya.
+
+
+You can preview the GUI with the Maya-GUI-Image and the Maya-Point-Cloud-Image.
